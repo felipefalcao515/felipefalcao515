@@ -1,14 +1,14 @@
-### Olá, eu sou o Felipe 👋
+### Hi there, I'm Felipe 👋
 
-## Da uma olhada no meu Linkedin para conhecer meu perfil
+## Check my Linkedin to know more about me
 
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipefal/)
 
-## Meu Git:
+## My Git:
 
 ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipefalcao515&show_icons=true&theme=tokyonight)
 
-## Algumas tecnologias que eu uso
+## Some tech i use
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
@@ -22,7 +22,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipefalcao515&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Pode entrar em contato
+## You can contact me
 - 📲(48) 984390677
 - 📧felipe.falcao515@gmail.com
 
